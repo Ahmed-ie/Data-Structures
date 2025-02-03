@@ -1,5 +1,3 @@
-# Ahmed Elmi  
-
 ## C Data Structures  
 ## Overview  
 This repository contains three fundamental **C data structures**—**Set, Counters, and Hashtable**—designed for efficient data management in C programs:
